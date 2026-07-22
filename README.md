@@ -1,4 +1,4 @@
-# llm-translator — Hybrid Diffusion-LLM + Autoregressive Translation
+# LLM-translator — Hybrid Diffusion-LLM + Autoregressive Translation
 
 A research prototype for **English → Bengali machine translation** that combines a
 **diffusion-based semantic planner** with an **autoregressive decoder**, aimed at
